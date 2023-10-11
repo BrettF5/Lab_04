@@ -1,0 +1,17 @@
+/* external style sheet */
+
+body{
+    background-color: aqua;
+}
+
+p {
+    border: 2px solid black
+}
+
+img {
+    border: 5px solid rgb(19, 17, 46)
+}
+
+.section1 {
+    display: inline block;
+}

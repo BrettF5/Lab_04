@@ -15,7 +15,7 @@ img {
 
 /* Classes: group similar elements */
 .card-caption {
-background-color: blueviolet;
-coloer: white;
-padding: 10px;
+   background-color: blueviolet;
+   color: white;
+   padding: 10px;
 }

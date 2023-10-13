@@ -1,5 +1,9 @@
 /* external style sheet */
 
+head{
+    
+
+
 body{
     background-color: aqua;
 }
@@ -10,6 +14,7 @@ p {
 
 img {
     border: 5px solid rgb(19, 17, 46)
+    display: inline block;
 }
 
 .section1 {

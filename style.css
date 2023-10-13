@@ -9,8 +9,8 @@ p {
 }
 
 img {
-    border: 5px solid rgb(19, 17, 46)
-    display: inline block;
+    border: 5px solid rgb(19, 17, 46);
+    display: inline-block;
 }
 
 /* Classes: group similar elements */

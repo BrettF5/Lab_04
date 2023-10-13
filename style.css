@@ -13,6 +13,6 @@ img {
     display: inline block;
 }
 
-.card-caption [
+.card-caption {
 background-coloer: blueviolet;
 }

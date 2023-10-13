@@ -10,7 +10,6 @@ p {
 
 img {
     border: 5px solid rgb(19, 17, 46);
-    display: inline-block;
 }
 
 /* Classes: group similar elements */
@@ -18,4 +17,8 @@ img {
     background-color: blueviolet;
     color: white;
     padding: 10px;
+}
+
+section {
+    display: inline-block;
 }
